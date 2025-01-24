@@ -1,2 +1,2 @@
-# bootbot
+# bookbot
 first boot.dev project 
